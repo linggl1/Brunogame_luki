@@ -1,6 +1,8 @@
 package ch.teko.prg;
 
 //infos und so :)
+//hinzugefügte zeile
+
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
